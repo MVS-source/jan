@@ -15,7 +15,7 @@ const MENU_ITEMS = [
     href: '/docs/desktop/quickstart',
     children: [
       { name: 'Jan Desktop', href: '/docs/desktop/quickstart' },
-      { name: 'Jan Agent', href: '/docs/desktop/agents/quickstart' },
+      { name: 'Jan Agent', href: '/docs/agent/quickstart' },
     ],
   },
   { name: 'Tokamak', href: 'https://tokamak.sh', external: true },
